@@ -4,8 +4,10 @@ A python trojan that changes windows wallpaper after ever 10 seconds
 Tested on python version - 3.12.0 & Windows 11
 
 Many windows systems when get hacked, the hacker changes their wallpaper to display a certain message to the user or owner of the system
-These scripts are for demonstration purpose only.
-These are for education purpose only.
+
+These scripts are to demonstrate how a trojan can run some malicious code & change wallpaper of windows
+
+These are for educational purpose only.
 
 Repository Files:
 1. "random quotes.py" - Trojan file, will show random quote & save the payload in %USERPROFILE% directory
