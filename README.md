@@ -1,5 +1,6 @@
 # wallpaper-changer-trojan
 A python trojan that changes windows wallpaper after ever 10 seconds
+Tested on python version - 3.12.0 & Windows 11
 
 Many windows systems when get hacked, the hacker changes their wallpaper to display a certain message to the user or owner of the system
 These scripts are for demonstration purpose only.
