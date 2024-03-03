@@ -2,14 +2,18 @@ import random
 import os
 
 quotes = [
-    "Time is money & money is God",
-    "Focus on your Karma not on the fruits",
-    "All that gliters is not gold",
-    "Nothing is permanent in this world, everything is meant to be gone",
-    "You always have only two options either you keep trying & get succeed or you die trying",
-    "You will never lose, until you accept you are a loser",
-    "Whatever you lost will come back to you if at the first place you got it with your hard work & not with your luck",
-    "Walk like a king or walk like you don't care who is the king"
+    "Walk like a king or Walk like you don't care who is the king",
+    "Only two things can happen either you die trying or you win",
+    "One who lost himself lost everything",
+    "You are the creator of your own destiny",
+    "The best will come only if you work hard",
+    "If you can't fight for what you want then don't regret for what you lost",
+    "If you are nothing without it the you don't deserve it",
+    "King never cries",
+    "God is with you",
+    "You are never failed until you give up",
+    "Do it for your karma not for the fruits"
+    "Time is money & money is God"
 ]
 
 print(quotes[random.randint(0, len(quotes) - 1)])
