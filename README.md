@@ -2,7 +2,7 @@
 A python trojan that changes windows wallpaper after ever 10 seconds
 
 Many windows systems when get hacked, the hacker changes their wallpaper to display a certain message to the user or owner of the system
-These scripts are for demonstration of these kind of activities.
+These scripts are for demonstration purpose only.
 These are for education purpose only.
 
 Files:
@@ -17,4 +17,4 @@ Working:
 
 When a user run this file using command:
   python "random quotes.py"
-This script will print a random quote on the screen and saved the payload file as %USERPROFILE%\.system & it will also save a vbscript to run this payload after every restart, vbscript will be saved in the startup directory with the filename as 
+This script will print a random quote on the screen and saved the payload file as "%USERPROFILE%\.system" & it will also save a vbscript to run this payload after every restart, vbscript will be saved in the startup directory with the filename as "Windows Explorer.vbs"
